@@ -7,7 +7,7 @@
 		"socket.io-client": "0.9.16",
 		"pomelo-loader": "0.0.6",
 		"stream-pkg": "0.0.5",
-		"pomelo-logger": "0.1.6",
+		"pomelo-logger": "git+ssh://git@git.marstv.com/git/backend/pomelo-logger.git",
 		"node-uuid": "1.4.0",
 		"async": "0.2.10"
 	},
