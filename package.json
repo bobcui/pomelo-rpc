@@ -1,6 +1,11 @@
 {
-	"name": "pomelo-rpc",
+	"name": "huomaotv-pomelo-rpc",
 	"version": "0.4.5",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@git.marstv.com/git/backend/pomelo-rpc.git"
+    },
 	"dependencies": {
 		"socket.io": "0.9.16",
 		"crc": "0.2.0",
