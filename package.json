@@ -4,7 +4,7 @@
     "private": false,
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@git.marstv.com/git/backend/pomelo-rpc.git"
+        "url": "https://github.com/bobcui/pomelo-rpc.git"
     },
 	"dependencies": {
 		"socket.io": "0.9.16",
@@ -12,7 +12,7 @@
 		"socket.io-client": "0.9.16",
 		"pomelo-loader": "0.0.6",
 		"stream-pkg": "0.0.5",
-		"pomelo-logger": "git+ssh://git@git.marstv.com/git/backend/pomelo-logger.git",
+		"pomelo-logger": "https://github.com/bobcui/pomelo-logger.git",
 		"node-uuid": "1.4.0",
 		"async": "0.2.10"
 	},
